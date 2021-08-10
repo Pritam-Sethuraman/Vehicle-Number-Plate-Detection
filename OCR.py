@@ -27,7 +27,6 @@ pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tessera
 # For Visualization in Python
 import matplotlib.pyplot as plt
 
-
 # Reading the image
 rgbImage = cv2.imread('/content/KTM.jpg')
 #rgbImage = cv2.resize(rgbImage, (400, 600))
