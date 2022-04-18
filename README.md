@@ -3,11 +3,25 @@ This project aims to extract the registration number of a vehicle from the image
 
 ---
 
-# Dependencies
+## Dependencies
 - Python
 - OpenCV
 - Numpy
 - RegEx
+
+---
+
+## How to Use
+
+- Clone this repo
+```html
+git clone https://github.com/Pritam-Sethuraman/Vehicle-Number-Plate-Detection.git
+```
+
+- Run main.py
+```html
+python main.py
+```
 
 ---
 
@@ -21,7 +35,7 @@ This project aims to extract the registration number of a vehicle from the image
 
 ---
 
-# License
+## License
 MIT License
 
 Copyright (c) 2022 Pritam Sethuraman
